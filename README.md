@@ -1,2 +1,2 @@
 # clade
-Education-purpose compiler
+Education-purpose compiler written in Rust
